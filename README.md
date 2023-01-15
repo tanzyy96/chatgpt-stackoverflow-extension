@@ -1,18 +1,6 @@
-# ChatGPT for Google
+# ChatGPT for StackOverflow
 
-A browser extension to display ChatGPT response alongside Google (and other search engines) results
-
-[Install from Chrome Web Store](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
-
-[Install from Mozilla Add-on Store](https://addons.mozilla.org/addon/chatgpt-for-google/)
-
-## Supported Search Engines
-
-Google, Baidu, Bing, DuckDuckGo, Brave, Yahoo, Naver, Yandex, Kagi, Searx
-
-## Screenshot
-
-![Screenshot](screenshots/extension.png?raw=true)
+A browser extension that uses ChatGPT to validate StackOverflow responses
 
 ## Features
 
